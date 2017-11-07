@@ -18,7 +18,7 @@ const welcomeMessage = Platform.select({
   android: 'Welcome to React Native Android!'
 });
 
-export default class App extends Component<{}> {
+export default class ReactShiv extends Component {
   render() {
     return (
       <View style={styles.container}>

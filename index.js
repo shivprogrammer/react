@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import ReactShiv from './app/App';
 
-AppRegistry.registerComponent('ReactShiv', () => App);
+AppRegistry.registerComponent('ReactShiv', () => ReactShiv);
