@@ -1,12 +1,5 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component, PropTypes } from 'react';
 import {
-  // Platform,
   AppRegistry,
   StyleSheet,
   Text,
